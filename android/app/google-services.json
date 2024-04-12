@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435617791733",
+    "project_id": "bhashini-976ed",
+    "storage_bucket": "bhashini-976ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435617791733:android:91fdc77be1e263e7490fbc",
+        "android_client_info": {
+          "package_name": "com.example.bhashini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-DuaUw7xnFaB0t-gdcxAqOveiDyQmUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
